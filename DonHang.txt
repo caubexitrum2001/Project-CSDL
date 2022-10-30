@@ -1,0 +1,53 @@
+======DON HANG THANH CONG======
+Ma don: 1
+Ten khach hang: ABC
+Dia chi khach hang: 280 An Duong Vuong
+Dien thoai: 0933123456
+Ngay mua: 30/10/2022
+
+***Cac san pham dat mua***
+Ma hang hoa COM9 voi 1 so luong
+
+==============================================================
+=====DON HANG THANH CONG=====
+Ma don: 2
+Ten khach hang: ABC1
+Dia chi khach hang: 280 An Duong Vuong
+Dien thoai: 0933456789
+Ngay mua:30/10/2022
+
+***Cac san pham dat mua***
+Ma hang hoa COM9 voi 1 so luong
+Ma hang hoa COM1 voi 1 so luong======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: ABC
+Dia chi khach hang: 280 ADV
+Dien thoai: 093366666
+Ngay mua: 20/10/2022
+
+***Cac san pham dat mua***
+   Ma hang hoa COM9 voi 1 so luong.
+
+==========================================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: asd
+Dia chi khach hang: 280
+Dien thoai: 09526345351
+Ngay mua: 30/10/2022
+
+***Cac san pham dat mua***
+   Ma hang hoa COM11 voi 1 so luong.
+
+==========================================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: asifgaof
+Dia chi khach hang: 280 ADV
+Dien thoai: 65415153
+Ngay mua: 20/10/2022
+
+***Cac san pham dat mua***
+   Ma hang hoa COM1 voi 1 so luong.
+
+==========================================================================
